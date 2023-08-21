@@ -1,1 +1,2 @@
-Esse é o meu segundo arquivo!
+Esse é o meu segundo arquivo.
+Eu sou mais uma linha.
